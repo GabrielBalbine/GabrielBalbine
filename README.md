@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+to+my+GitHub+profile!;Nice+to+meet+you!¢er=true&size=30">
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+to+my+GitHub!;Nice+to+meet+you!&center=true&size=30">
   <p>
     <a href="https://www.linkedin.com/in/gabriel-balbine-de-andrades-42579b233/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
@@ -40,7 +39,9 @@ Here's a glimpse of my technical and creative skills:
     ![Adobe Substance 3D](https://img.shields.io/badge/Adobe%20Substance%203D-430259?style=for-the-badge&logo=adobe&logoColor=white)
     ![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
--   **Other:** Graphic Design
+-   **Other:**
+    ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white)
+    ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ## 🌱 Currently Learning
 
@@ -51,7 +52,7 @@ I'm always eager to expand my knowledge and explore new horizons. Currently, I'm
 ## ✨ Fun Facts
 
 -   My techonolgy interest was born when I was 4 years old, with my first video-game
--   I worked with Graphic Design by the Covid-19 Pandemic, so since there I conciliate it with programming and technology 
+-   The Covid-19 Pandemic led me to explore Graphic Design, and I have been combining it with my passion for programming and technology ever since.
 
 ## 📫 Let's Connect!
 
