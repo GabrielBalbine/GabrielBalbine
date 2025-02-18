@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+to+my+GitHub+profile!;Nice+to+meet+you!¢er=true&size=30">
 
   <p>
-    <a href="https://www.linkedin.com/in/seu-perfil-linkedin/" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-balbine-de-andrades-42579b233/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
     </a>
-    <a href="https://seu-site-portfolio.com/" target="_blank">
+    <a href="https://www.behance.net/gabrielbalbine" target="_blank">
       <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=globe">
     </a>
   </p>
