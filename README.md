@@ -14,7 +14,7 @@
 
 ## 💻 About Me
 
-Hi, I'm Gabriel, a passionate and versatile 21-year-old Computer Science student. I'm currently in my 8th semester at FEI, diving deep into the exciting world of technology and design.
+Hi, I'm Gabriel, a passionate and versatile 22-year-old Computer Science student. I'm currently in my 8th semester at FEI, diving deep into the exciting world of technology and design.
 
 ## 🛠️ Skills
 
