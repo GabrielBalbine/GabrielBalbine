@@ -133,21 +133,6 @@ My second domain — connecting AI to the physical world:
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- If the cards below don't load, it's a Vercel rate limit — just refresh or wait a few minutes -->
-<div align="center">
-  <a href="https://github.com/GabrielBalbine">
-    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielBalbine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/GabrielBalbine">
-    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielBalbine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-  </a>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
