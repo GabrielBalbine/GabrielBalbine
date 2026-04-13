@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Computer+Vision+Engineer+🧠;Deep+Learning+%7C+Pose+Estimation+%7C+Gaze+Tracking;Building+intelligent+pipelines+from+pixels+to+insights&center=true&size=24&color=58a6ff&background=00000000&vCenter=true&pause=1000&width=620&height=70" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Engineer" alt="Typing SVG" />
 
   <br/>
 
@@ -135,12 +135,15 @@ My second domain — connecting AI to the physical world:
 
 ## 📊 GitHub Stats
 
+<!-- If the cards below don't load, it's a Vercel rate limit — just refresh or wait a few minutes -->
 <div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielBalbine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <a href="https://github.com/GabrielBalbine">
+    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielBalbine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBalbine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
+  <a href="https://github.com/GabrielBalbine">
+    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielBalbine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  </a>
 </div>
 
 ---
@@ -156,9 +159,10 @@ My second domain — connecting AI to the physical world:
 </div>
 
 <!--
-  ⚠️ Para a cobrinha funcionar, crie o arquivo .github/workflows/snake.yml
-  no seu repo de perfil (GabrielBalbine/GabrielBalbine).
-  Veja o arquivo snake.yml que acompanha este README.
+  ⚠️ A cobrinha precisa de um GitHub Action pra funcionar.
+  Crie o arquivo .github/workflows/snake.yml no repo GabrielBalbine/GabrielBalbine.
+  Depois vá em Settings > Actions > General > Workflow permissions > "Read and write permissions" > Save.
+  Por fim, rode o workflow manualmente: Actions > Generate Snake > Run workflow.
 -->
 
 ---
