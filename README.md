@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Data+Science+%26+AI+Enthusiast;Computer+Vision+%7C+Machine+Learning;Open+to+freelance+projects" alt="Typing SVG" />
 
   <br/>
 
@@ -12,7 +12,8 @@
   </a>&nbsp;
   <a href="mailto:profissionalgabrielbalbine@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Freelance-2EA043?style=for-the-badge" />
 
 </div>
 
@@ -20,39 +21,78 @@
 
 ## `> whoami`
 
-I'm **Gabriel Balbine** — Computer Science undergrad (8th semester @ FEI) specializing in **AI, computer vision, and deep learning** applied to real-world problems.
+I'm **Gabriel Balbine** — **Computer Science graduate (FEI)** and full stack developer, currently deepening my expertise in **Data Science, AI and Machine Learning** through a **Postgraduate program (Pós Tech) in Data Science at FIAP**.
 
-My thesis project (**GAIA/TITAN**) is an end-to-end CV pipeline for automated behavioral analysis in ASD (Autism Spectrum Disorder) therapy sessions — extracting gaze, posture, mutual attention, and interpersonal distance from video using pose estimation, face mesh tracking, and LSTM classification.
+I work at **LG – Lugar de Gente**, and I'm comfortable across the whole stack: front-end, back-end and databases. Lately my focus has been shifting toward data — building models, pipelines and products where AI actually solves real problems.
 
-I also work at **SPI Integradora / MetaIndústria**, where I build NVIDIA Omniverse extensions, AR applications, and industrial IoT integrations — bridging AI and digital twins in production environments.
+I don't just write code — I ship things that work end to end.
 
-I don't just write code — I ship pipelines.
+```yaml
+currently:
+  work:      LG – Lugar de Gente
+  studying:  Pós Tech in Data Science @ FIAP
+  focus:     Data Science · Machine Learning · Computer Vision
+  stack:     Full Stack (front-end, back-end, databases)
+  available: Freelance projects & collaborations
+```
 
 ---
 
-## 🧠 AI / ML / Computer Vision
+## 💼 Open to Freelance
 
-This is my core. Here's what I work with daily:
+I take on freelance work in:
+
+- **Web applications** — full stack, from UI to API to database
+- **Data & AI solutions** — data analysis, dashboards, ML models, computer vision prototypes
+- **Automation & integrations** — scripts, pipelines and systems that talk to each other
+
+📩 Reach out at **profissionalgabrielbalbine@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/gabriel-balbine-de-andrades-42579b233/).
+
+---
+
+## 🧠 Data Science / AI / ML
+
+Where I'm going deeper every day:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=ultralytics&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Areas:** Object Detection · Pose Estimation · Gaze Tracking · Multi-Object Tracking (BoTSORT) · Sequence Classification (LSTM) · Behavioral Feature Engineering · Data Augmentation Strategies
+**Areas:** Data Analysis · Machine Learning · Deep Learning · Object Detection · Pose Estimation · Gaze Tracking · Multi-Object Tracking (BoTSORT) · Sequence Classification (LSTM) · Feature Engineering
+
+---
+
+## 🌐 Full Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<!-- Adicione aqui os frameworks que você usa no dia a dia (ex.: React, Node.js, Next.js, Django, FastAPI, Spring...) -->
+
+**Front-end · Back-end · APIs · Databases · Deploy**
 
 ---
 
 ## 🔬 Featured Project — GAIA / TITAN
 
-> End-to-end computer vision pipeline for automated behavioral analysis in ASD therapy sessions, assisting clinicians with objective, quantitative metrics extracted from interaction videos.
+> My undergraduate thesis: an end-to-end computer vision pipeline for automated behavioral analysis in ASD (Autism Spectrum Disorder) therapy sessions, giving clinicians objective, quantitative metrics extracted from interaction videos.
 
 ```
 Video → YOLOv8-Pose + BoTSORT → MediaPipe Face Mesh → Feature Extraction → LSTM Classifier
@@ -77,9 +117,9 @@ Video → YOLOv8-Pose + BoTSORT → MediaPipe Face Mesh → Feature Extraction �
 
 ---
 
-## 🏭 Digital Twins, AR/XR & Industrial
+## 🏭 Previous Experience — Digital Twins, AR/XR & Industrial
 
-My second domain — connecting AI to the physical world:
+At **SPI Integradora / MetaIndústria**, I built solutions connecting AI to the physical world:
 
 ![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![USD](https://img.shields.io/badge/OpenUSD-111111?style=flat-square)
@@ -89,34 +129,16 @@ My second domain — connecting AI to the physical world:
 ![NVIDIA Jetson](https://img.shields.io/badge/Jetson%20Xavier%20NX-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest%202-1877F2?style=flat-square&logo=meta&logoColor=white)
 
-**What I build:** Omniverse Kit extensions (OPC-UA monitoring, MiR100 robot nav, XR teleporter), AR apps (Vuforia + ThingWorx), edge AI on Jetson Xavier NX.
+**What I built:** Omniverse Kit extensions (OPC-UA monitoring, MiR100 robot nav, XR teleporter), AR apps (Vuforia + ThingWorx), edge AI on Jetson Xavier NX.
 
 ---
 
 <details>
-<summary><b>💻 Languages & General Dev</b></summary>
+<summary><b>💻 Other Languages</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Infra</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </details>
 
