@@ -4,6 +4,9 @@
 
   <br/>
 
+  <a href="https://gabriel-balbine.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-balbine-de-andrades-42579b233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
@@ -27,6 +30,8 @@ I work at **LG – Lugar de Gente**, and I'm comfortable across the whole stack:
 
 I don't just write code — I ship things that work end to end.
 
+🌐 See my work at **[gabriel-balbine.vercel.app](https://gabriel-balbine.vercel.app)**.
+
 ```yaml
 currently:
   work:      LG – Lugar de Gente
@@ -47,6 +52,20 @@ I take on freelance work in:
 - **Automation & integrations** — scripts, pipelines and systems that talk to each other
 
 📩 Reach out at **profissionalgabrielbalbine@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/gabriel-balbine-de-andrades-42579b233/).
+
+---
+
+## 🚀 Live Sites
+
+| Site | What it is |
+|------|------------|
+| [Grupo Permaque](https://permaque-site.vercel.app) | Company website for a CNC machining and industrial mechanics shop: services, catalog, quote requests and a staff area |
+| [Yokai](https://yokai-seven.vercel.app) | Management dashboard for a GTA RP organization: inventory, production, sales and cash, with weekly goals and an audit log |
+| [Phobia Store](https://phobiastore.vercel.app) | Store for FiveM content: clothing, liveries, graphics presets and scripts, with Discord login and ticket-based orders |
+| [SquadSwipe](https://squadswipe.vercel.app) | Swipe-based app for finding people to play with: profiles, chat between matches and a tournament arena |
+| [Synconomy](https://synconomy.vercel.app) | Day-by-day budgeting that warns you before your balance goes negative |
+
+More on the [portfolio](https://gabriel-balbine.vercel.app).
 
 ---
 
